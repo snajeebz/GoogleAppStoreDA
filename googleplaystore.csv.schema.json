@@ -1,0 +1,72 @@
+{
+  "fields": [
+    {
+      "name": "App",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Category",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Rating",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Reviews",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Size",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Installs",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Type",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Price",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Content Rating",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Genres",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Last Updated",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Current Ver",
+      "type": "any",
+      "format": "default"
+    },
+    {
+      "name": "Android Ver",
+      "type": "string",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}
