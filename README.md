@@ -2,17 +2,18 @@
 #### Najeeb Zaidi
 #### zaidi.nh@gmail.com
 #### Github: https://github.com/snajeebz
-
-# Data Source: https://www.kaggle.com/datasets/lava18/google-play-store-apps
-
+#### Discussions, Reviews and Comments:
+#### [Kaggle URL](https://www.kaggle.com/code/najeebz/categories-for-popular-apps-google-play-store)
+#### Data Source: https://www.kaggle.com/datasets/lava18/google-play-store-apps
+______________
 # Title: Categories for Popular Apps (Free and Paid)
-
-## Answers:
-### which are the most expensive apps?
+______________
+## Provides Answers of:
+### Which are the most expensive apps?
 ### Do paid apps generate more revenue or free apps?
 ### Which category have most expensive paid apps?
 ### Which category is most popular for free apps?
-
+___________________
 
 # Observations and Conclusion:
 
@@ -28,5 +29,5 @@
 - Although there are paid apps with price tags upto 400USD , but most of the apps are priced less than 20USD.
 
 # Discussion, Comments and Reviews:
-## [Kaggle URL] (https://www.kaggle.com/code/najeebz/categories-for-popular-apps-google-play-store)
+## [Kaggle URL](https://www.kaggle.com/code/najeebz/categories-for-popular-apps-google-play-store)
 
